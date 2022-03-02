@@ -10,14 +10,14 @@ Runs the app in the development mode (local version).
 This app was built on React and uses hooks for state management. (frontend) Uses placeholder data from pageData.js.
 
 Initial Load :
-All card data are loaded and "Most Popular" button will be highlighted. UseState is used to setting initial state.
-Buttons are also loaded using data from pageData.
+All card data are loaded and "Most Popular" button will be highlighted. UseState is used for setting initial state.
+Buttons realted data are also loaded from pageData.
 
-Filtered view: Data is filtered based on Header buttons click and resets the state which results to renders. Highlighted button would also change based on the button click.
+Filtered view: Data is filtered based on Header button clicks and resets the state which renders the component. Highlighted button would also change based on the button click.
 
-Displays Larger Imgae: after a card is clicked the respective image will be displayed in a new component and can closed by clicking the big image itself. This was possible thanks to useState; holding a state object which is then for conditionally rendering the component.
+Displays Larger Image: after a card is clicked the respective image will be displayed in a new component and can be closed by clicking the image itself. This was possible thanks to useState; holding a state object which is then used for conditionally rendering the component.
 
-Scroll: auto scroll will take place when a card is clicked and this scrollview to the big sized image.
+Scroll: auto scroll will take place when a card is clicked and this scrollview is to the bigger sized image component.
 
 Animation: css animation using transform and box-shadows.
 
