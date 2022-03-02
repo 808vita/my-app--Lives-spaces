@@ -24,3 +24,5 @@ Animation: css animation using transform and box-shadows.
 
 -Create React (Boiler plate)
 -React Bootstrap
+
+![alt text](https://github.com/808vita/my-app--Lives-spaces/blob/master/src/screenshot.jpg?raw=true)
