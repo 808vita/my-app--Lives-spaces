@@ -2,7 +2,7 @@
 
 you can run:
 
-### `npm start`
+### `devstart`
 
 Runs the app in the development mode (local version).
 
